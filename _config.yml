@@ -1,17 +1,17 @@
-title: 'b2a3e8.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: "/jekyll-theme-console-demo-dark"
-url: "https://b2a3e8.github.io"
+title: 'kiranramanna.github.io'
+description: "Research and personal blog on various learnings."
+baseurl: "/thoughts"
+url: "https://kiranramanna.github.io"
 
 header_pages:
   - index.md
-  - peter.md
+  - kiranramanna.md
   - about.md
-  - contact.md
 
-style: dark
+# #style: light # dark (default) or light
+style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow me on <a href="https://www.linkedin.com/in/kiranramanna/">linkedin</a>'
 
 # Build settings
 markdown: kramdown
